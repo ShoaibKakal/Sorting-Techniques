@@ -12,4 +12,13 @@
 | Quick Sort ```O(nlogn) ```|  |
 | Tree Sort ```O(nlogn) ```|  |
 | Shell Sort```O(n^3/2) ``` |  |
+
+
+## Creteria For Sorting Algorithm Analysis
+
+1. Number of Comparsion
+2. Number of Swaps
+3. Adaptive
+4. Stable
+5. Extra Memory
                                     
