@@ -6,9 +6,9 @@
 /*
 	n = array size;
 	No. of passes = n-1;
-	No. of comparsions = 1+2+3+...+n-1 = n(n-1)/2 = O(n^2);
+	No. of comparisons = 1+2+3+...+n-1 = n(n-1)/2 = O(n^2);
 	No. of Swaps = 1+2+3+4+...+n-1 = n(n-1)/2 = O(n^2);
-	Adaptive = true;
+	Adaptive = true {it's not adaptive by nature but we can make it adaptive by using a flag};
 	Stable = true;
 	
 	Max. Time Complexity = O(n^2);
