@@ -3,7 +3,7 @@
 ### Sorting
   [Dictionary](https://www.dictionary.com/browse/sorting): The process by which sedimentary particles become separated according to some particular characteristic, as size or shape.
   
-  [Wikipedia](https://en.wikipedia.org/wiki/Sorting): Sorting refers to ordering data in an increasing or decreasing fashion according to some linear relationship among the data items.
+  [Wikipedia](https://en.wikipedia.org/wiki/Sorting): Sorting refers to ordering data in an increasing or decreasing fashion according to some linear relationship among the data items..
   
   ` Still Confuse? well, Sorting is arragning something with respect to some manners.`
   > For example:
